@@ -13,7 +13,7 @@ pillow==11.3.0
 psutil
 kurigram==2.2.24
 python-dotenv
-ntgcalls==2.0.6
+ntgcalls
 py-tgcalls==2.2.11
 pyyaml==6.0.3
 requests
