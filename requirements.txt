@@ -1,7 +1,6 @@
 aiofiles
 aiohttp
 apscheduler
-asyncio
 bs4
 ffmpeg-python
 future==1.0.0
